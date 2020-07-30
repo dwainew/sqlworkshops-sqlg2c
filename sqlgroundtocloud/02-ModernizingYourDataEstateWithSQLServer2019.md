@@ -17,7 +17,7 @@ The WideWorldImporters company has been evaluating upgrading several SQL Server 
 - Providing better database availability when applications use long-running transactions.
 - Allowing the WideWorldImporters team to access data from sources like Oracle, Azure SQL Database, and Azure CosmosDB without having to develop expensive ETL jobs.
 - The database team at WideWorldImporters has evaluated SQL Server on Linux but SQL Server 2017 didn't include Replication, a feature they need for their application. They would like to evaluate how SQL Server Replication on Linux works. They also want to understand more about container technology and how it can be used with SQL Server
-- WideWorldImporters also would like to know other capabilities exist in SQL Server 2019 that might help them before more efficient and extend the capabilities of T-SQL.
+- WideWorldImporters also would like to know other capabilities that exist in SQL Server 2019 that might help them be more efficient and extend the capabilities of T-SQL.
 - WideWorldImporters also would like to learn more about how they can plan and execute a migration to SQL Server 2019 and reduce their risk for upgrades.
 - WideWorldImporters is also evaluating Azure SQL so wants to know what features in SQL Server 2019 also work in Azure.
 
@@ -31,7 +31,7 @@ In this workshop module, you will see the capabilities in SQL Server 2019 that c
 
 In this activity, you will complete a series of modules from the **SQL Server 2019 Lab**.
 
-Instructor led workshops will use modules from the SQL Server 2019 lab along with the PowerPoint slides <a href="https://github.com/microsoft/sqlworkshops/blob/master/SQLGroundToCloud/slides/SQL%20Server%202019%20Modern%20Data%20Platform.pptx">SQL Server 2019 Modern Data Platform</a>. Instructor led labs may not go through all modules in the SQL Server 2019 lab.
+Instructor led workshops will use modules from the SQL Server 2019 lab along with the PowerPoint slides <a href="https://github.com/microsoft/sqlworkshops-sqlg2c/blob/master/slides/SQL%20Server%20Ground%20to%20Cloud.pptx?raw=true">SQL Server 2019 Modern Data Platform</a>. Instructor led labs may not go through all modules in the SQL Server 2019 lab.
 
 <h3><img style="margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/sqlworkshops/blob/master/graphics/checkmark.png?raw=true"><b>Activity Steps</b></h3>
 
